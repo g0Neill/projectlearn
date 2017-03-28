@@ -34,23 +34,30 @@
         <div class="container">
             <div class="row">
                 <div class="twelve columns logo">
-                    <img src="images/gorilla.jpg" style="max-width: 100%;" alt="Gorilla">
+                    <img src="images/gorilla.png" style="max-width: 100%;" alt="Gorilla">
                 </div>
             </div>
 
             <div class="row">
                 <div class="six columns">
-                    <div class="contact">
+                    <div class="about">
                         <h4>Who I Am</h4>
-                        <p>Self study is my way of learning at this time. I am motivated to reach my goal of becoming a software developer. I am a Web Developer specializing in front-end development. Experience is limited due to a recent career change but an eagerness to learn will overcome any lack of experience quickly. Experience carrying over from other fields includes managing people, project management and problem solving under pressure. I enjoy a challenge and learning new tools and technologies to use. At the moment I am interested in learning PHP and increasing my knowledge and skills in JavaScript.</p>
+                        <p>Self study is my way of learning. I am want to reach my goal and become a programmer. Experience is limited due to a recent career change but an eagerness to learn will overcome any lack of experience quickly. I enjoy a good cup of coffee (WHO DOESN'T?).</p>
+                        <h4>Some of my skills</h4>
+                        <ul>
+                            <li>HTML</li>
+                            <li>CSS</li>
+                            <li>Github (Beginner)</li>
+                            <li>PHP(Coming Soon)</li>
+                            <li>JavaScript (Coming Soon)</li>
+                        </ul>
                     </div>
-                    <div class="details">
-                        <h4>I dunno</h4>
-                    </div>
+
                 </div>
                 <div class="six columns">
                     <div class="right-stuff">
-                        <h4>SOME MORE STUFF</h4>
+                        <h4>Learning Laravel</h4>
+                        <img src="images/laravel-logo.png" style="max-width: 100%;" alt="Laravel">
                     </div>
                 </div>
             </div>

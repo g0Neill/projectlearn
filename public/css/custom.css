@@ -29,7 +29,7 @@ body {
 	text-align: center;
 }
 
-.contact, 
+.about,
 .details,
 .download, 
 .right-stuff,
@@ -41,4 +41,8 @@ body {
 .six.columns {
 	background: rgba(0, 0, 0, 0.48);
 	padding: 20px;
+}
+
+.about, .right-stuff {
+	height: 520px;
 }
