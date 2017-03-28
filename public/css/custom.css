@@ -1,0 +1,44 @@
+.container {
+	max-width: 1200px!important;
+}
+
+body {
+	color: #fff;
+}
+
+/*#bg {*/
+  	/*position: fixed; */
+  	/*top: -50%; */
+  	/*left: -50%; */
+  	/*width: 200%; */
+  	/*height: 200%;*/
+/*}*/
+
+/*#bg img {*/
+  	/*position: absolute; */
+  	/*top: 0; */
+  	/*left: 0; */
+  	/*right: 0; */
+  	/*bottom: 0; */
+  	/*margin: auto; */
+  	/*min-width: 50%;*/
+  	/*min-height: 50%;*/
+/*}*/
+
+.logo {
+	text-align: center;
+}
+
+.contact, 
+.details,
+.download, 
+.right-stuff,
+.map {
+	text-align: center;
+	margin-top: 35px;
+}
+
+.six.columns {
+	background: rgba(0, 0, 0, 0.48);
+	padding: 20px;
+}
