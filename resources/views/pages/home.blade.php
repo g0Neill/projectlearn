@@ -1,43 +1,7 @@
- {{--* Created by PhpStorm.--}}
- {{--* User: Gulliver--}}
- {{--* Date: 3/27/2017--}}
- {{--* Time: 10:24 PM--}}
+@extends('master')
 
-
-<!DOCTYPE html>
-<html lang="{{ config('app.locale') }}">
-    <head>
-        <meta charset="utf-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-
-        <title>Project Learn</title>
-
-        <!-- Fonts -->
-        <link href="https://fonts.googleapis.com/css?family=Raleway:100,600" rel="stylesheet" type="text/css">
-
-        <!-- ICONS  -->
-        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
-
-        <!-- CSS -->
-        <link rel="stylesheet" href="css/normalize.css">
-        <link rel="stylesheet" href="css/skeleton.css">
-        <link rel="stylesheet" href="css/custom.css">
-        <link rel="stylesheet" href="css/animation.css">
-
-        <!-- Favicon -->
-        <link rel="icon" type="image/png" href="images/favicon.png">
-
-    </head>
-    <body>
+@section('content')
         <!-- Primary Page Layout -->
-        <div class="container">
-            <div class="row">
-                <div class="twelve columns logo">
-                    <img src="images/gorilla.png" style="max-width: 100%;" alt="Gorilla">
-                </div>
-            </div>
-
             <div class="row">
                 <div class="six columns">
                     <div class="about">
@@ -68,8 +32,4 @@
                 </div>
             </div>
         </div>
-    </body>
-</div>
-</div>
-</body>
-</html>
+@stop
