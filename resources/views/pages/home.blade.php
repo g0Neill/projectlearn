@@ -29,6 +29,15 @@
             <div class="row">
                 <div class="twelve columns">
                     <h4>Some Info</h4>
+                    {{-- Display DB Info --}}
+                    <?php
+                    // Test database connection
+//                    try {
+//                    DB::connection()->getPdo();
+//                    } catch (\Exception $e) {
+//                    die("Could not connect to the database.  Please check your configuration.");
+//                    }
+//                    ?>
                 </div>
             </div>
         </div>

@@ -39,10 +39,11 @@ body {
 .right-stuff, {
 	text-align: center;
 	margin-top: 35px;
+	color: #fff;
 }
 
 .six.columns {
-	background: rgba(0, 0, 0, 0.48);
+	background: rgba(224, 224, 224, 0.5);
 	padding: 20px;
 }
 
